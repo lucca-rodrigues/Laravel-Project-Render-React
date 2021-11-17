@@ -1,2 +1,0 @@
-(this["webpackJsonpapp-build-react-laravel"]=this["webpackJsonpapp-build-react-laravel"]||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var a=c(0),n=c.n(a),r=c(3),s=c.n(r),i=(c(9),c(4)),o=c(1);function l(){return Object(o.jsx)("div",{className:"facebook-actions",children:Object(o.jsx)(i.a,{})})}s.a.render(Object(o.jsx)(n.a.StrictMode,{children:Object(o.jsx)(l,{})}),document.getElementById("root"))},9:function(e,t,c){}},[[11,1,2]]]);
-//# sourceMappingURL=main.8d3e5ba6.chunk.js.map
