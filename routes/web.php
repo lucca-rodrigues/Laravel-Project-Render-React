@@ -17,7 +17,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/webpack', function () {
-    return view('webpack');
-});
-
